@@ -1,2 +1,20 @@
-# CodeAlpha_StudentGradeTracker
-Student Grade Tracker is a console-based Java application developed for the CodeAlpha Internship. It allows users to input and store student names and marks using ArrayList, calculates average, highest, and lowest scores, and displays a summary report using basic Java and OOP concepts.
+# Student Grade Tracker
+
+This project is developed as part of the **CodeAlpha Java Internship – Task 1**.
+
+## 📌 Features
+- Input student names and marks
+- Calculate average, highest, and lowest scores
+- Display a summary report
+- Console-based Java application
+
+## 🛠️ Concepts Used
+- Java OOP
+- ArrayList
+- Scanner class
+
+## ▶️ How to Run
+1. Compile the program:
+   javac StudentGradeTracker.java
+2. Run:
+   java StudentGradeTracker
